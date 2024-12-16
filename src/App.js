@@ -1,7 +1,7 @@
 
 import React, { useState,useEffect } from 'react';
 import './App.css';
-import TaskList from './component/drag-drop';
+import TaskList from './component/TaskList';
 
 const App = () => {
 
