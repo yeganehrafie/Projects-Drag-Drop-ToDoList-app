@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #FAFAFA;
+    margin: 0;
+    padding: 20px;
+}
+
+input[type="text"]:focus {
+    border-color: #4379F2;
+}
